@@ -1,1 +1,2 @@
-# Ost Spectroscopy Package
+# The DADOS Pipeline
+This pipeline is developed to perform the data reduction of the DADOS spectrograph. Apart from reducing the respective data, it also has a purpose in instructing students in the matter of reducing data from the DADOS long slit spectrgroaphs. Hence, it is meant to also be able to convey the main ideas of such a data reduction in general for which reason the data pipeline generates (optionally) a lot of auxilliary plots and figures to make the process as transparent as possible.
